@@ -1,6 +1,25 @@
-# 💫 About Me:
-Cyber related projects <br>Cyber projects <br><br>Ethical Hacking and cybersecurity and web development<br><br> <br><br>
+# 👋 Hi, I'm Laksh Trivedi!
 
+I am an **Undergraduate B.Tech student** specializing in **Cybersecurity**. I am passionate about learning how the industry works and building tools to make the internet safer.
+
+### 🛡️ About Me
+* 🎓 **Education:** Pursuing B.Tech in Cybersecurity.
+* 🐍 **Coding:** I am proficient in **Python** and enjoy working with its libraries to automate security tasks.
+* 🤝 **Goal:** I am looking to collaborate with **industrial cybersecurity professionals** to gain real-world experience.
+* 🌱 **Mindset:** I love seeking knowledge from different people and staying updated on new tech.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python (Advanced), SQL, Bash.
+* **Libraries:** Scapy, Requests, Socket, OS.
+* **Interests:** Network Security, Ethical Hacking, and Threat Detection.
+
+### 📬 Let's Connect!
+* **LinkedIn:** [Insert Link Here]
+* **Portfolio:** [Insert Link Here]
+* **Email:** [Your Email Address]
+
+---
+*“Always learning, one packet at a time.”*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/laksh-trivedi) 
@@ -12,10 +31,5 @@ Cyber related projects <br>Cyber projects <br><br>Ethical Hacking and cybersecur
 ![](https://nirzak-streak-stats.vercel.app/?user=LakshTrivedi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshTrivedi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LakshTrivedi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=LakshTrivedi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
