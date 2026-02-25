@@ -13,12 +13,6 @@ I am an **Undergraduate B.Tech student** specializing in **Cybersecurity**. I am
 * **Libraries:** Scapy, Requests, Socket, OS.
 * **Interests:** Network Security, Ethical Hacking, and Threat Detection.
 
-### 📬 Let's Connect!
-* **LinkedIn:** [Insert Link Here]
-* **Portfolio:** [Insert Link Here]
-* **Email:** [Your Email Address]
-
----
 *“Always learning, one packet at a time.”*
 
 ## 🌐 Socials:
